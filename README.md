@@ -22,4 +22,4 @@ You have a database, you need to annalyse and complete missed elements.
 ## test 4
 
 (4 hours, but I done in only one)
-You have a database with data to train a custom model. You need to distinguish if it is a false or a true label. NB you can do two class, but when it is a flase it is not a true. So I have prefered only one class, with a threshold at 90%. It is import to be sure it is a true.
+You have a database with data to train a custom model. You need to distinguish if it is a false or a true label. NB you can do two class, but when it is a flase it is not a true. So I have prefered only one class, with a threshold at 90%. It is important to be sure it is a true.
