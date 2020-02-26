@@ -1,0 +1,13 @@
+To label your data,
+
+I have created a perceptron network with keras as :
+-first layer with 6 neurons and 6 input
+-activation relu
+-second layers of 24 neurons
+-activation relu
+-thirds layers with only one neuron (because only one output/classes)
+-activation sigmoid (to be between 0 and 1)
+
+For the fit I did 50 epochs with batch size of 4. I used adam optimizer. (I have tried some other configurations; it was this one to give the best accuracy)
+
+After I have considered labels was not a false if predict value was superior at 90%, it is possible to modify this arbitrary value.
