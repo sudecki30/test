@@ -7,6 +7,3 @@ For the i/o, gui, drawing, pre-processing parts, the candidate can use opencv or
 
 The candidate has maximum 8 hours (junior) / 4 hours (mid-level) to finish the test.
 Please send the duration, the code (preference jupyter-notebook), the result image and your cellphone number to tao@anotherbrain.ai
-
-For any question, contact me with the following number: 06 29 16 73 29
-
